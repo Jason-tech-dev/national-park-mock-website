@@ -5,10 +5,8 @@ Name: Jason Nguyen
 
 
 ### Design Decisions and Assumptions
-[1] I went to Banff National Park during a vaction back in 2016, and I fell in love with the place. I was new at HTML and CSS at the time, and decided to make website based on
-my skillsets.
-[2]I want to make it plain and simple. But elegant
-[3]I did not have enough to make a tablet layout but i figured it look like mobile but bigger.
+[1]I want to make it plain and simple. But elegant
+[2]I did not have enough to make a tablet layout but i figured it look like mobile but bigger.
  
 
 
